@@ -299,7 +299,7 @@
       "provider": "Provider F",
       "input": "input",
       "output": "output",
-      "stared": 90,
+      "stared": 6749,
       "gitlink": "#",
       "tags":[
         "capsule networks",
@@ -318,7 +318,7 @@
       "provider": "Provider L",
       "input": "input",
       "output": "output",
-      "stared": 200,
+      "stared": 1603,
       "gitlink": "#",
       "tags":[
         "Deep Q-Networks",
@@ -337,7 +337,7 @@
       "provider": "Provider M",
       "input": "input",
       "output": "output",
-      "stared": 300,
+      "stared": 1510,
       "gitlink": "#",
       "tags":[
         "GPT-3",
